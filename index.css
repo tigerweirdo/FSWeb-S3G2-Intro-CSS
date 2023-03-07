@@ -1,0 +1,116 @@
+*{
+    font-family: "Chelsea Market";
+}
+.container {
+    width: 750 px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Chelsea Market";
+  }
+  
+  .main-txt,
+  .main-img {
+    vertical-align: middle;
+    display: inline-block;
+  }
+  
+  .container h1 {
+    margin-left: 30%;
+    display: block;
+  }
+  .container p {
+    margin-left: 30%;
+    display: inline-block;
+  
+    font-family: "Roboto Mono";
+  }
+  
+  .container header nav a {
+    border: 1px solid lightgray;
+    margin: 14px 100px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(244, 240, 240);
+    width: 0 auto;
+    margin-bottom: 10px;
+    background-color: #5ed3eb;
+  }
+  .container header nav a:first-child {
+    background-color: #ff764e;
+  }
+  .container header nav a:last-child {
+    background-color: #ffcd69;
+    width: 10%;
+  }
+  
+  .baloon img {
+    size: 60px;
+    padding: 20px;
+    width: 77px;
+    display: block;
+    margin: 0 auto;
+  }
+  .main-img img {
+    margin-right: 52%;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    margin-top: 20%;
+  }
+  
+  .container footer nav a {
+    border: 1px solid lightgray;
+    margin: 20px 100px;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(244, 240, 240);
+    margin-bottom: 20px;
+    width: 0 auto;
+    background-color: #5ed3eb;
+  }
+  
+  .container footer nav a:first-child {
+    background-color: #ff764e;
+  }
+  .container footer nav a:last-child {
+    background-color: #ffcd69;
+    width: 10%;
+  }
+  
+  .baloon p {
+    text-align: center;
+    width: 20%;
+    vertical-align: middle;
+    margin-left: 40%;
+  }
+  
+  span {
+    font-weight: bolder;
+  }
+  
+  .p p {
+    display: inline-block;
+    background-color: #ddb9a3;
+    color: azure;
+    margin: 0 135 px;
+    font-family: "Roboto Mono";
+    text-align: center;
+    margin-left: 230px;
+    width: 1000px;
+    text-align: center;
+  }
+  
+  footer img {
+    width: 70%;
+    margin: 10% 0%;
+    border-image: round;
+    height: 350px;
+    margin: 100 300px 250px;
+  
+    margin-top: 70px;
+  }
